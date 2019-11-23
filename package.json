@@ -1,0 +1,11 @@
+{
+  "name": "realtimechart",
+  "version": "1.0.0",
+  "description": "A real time chart of temperatures in Lagos at every 5 seconds interval",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Waheed Afolabi",
+  "license": "ISC"
+}
